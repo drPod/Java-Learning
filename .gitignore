@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Compiled Java class files
+*.class
+
+# Compiled Java bytecode
+*.jar
+
+# Build directories
+out/
+target/
+bin/
+
+# IDE-specific files
+.vscode/
+*.iml
+
