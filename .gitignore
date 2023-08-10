@@ -4,6 +4,9 @@
 # IntelliJ IDEA files
 .idea/
 
+# BlueJ IDE files
+package.bluej
+
 # Eclipse files
 .classpath
 .project
