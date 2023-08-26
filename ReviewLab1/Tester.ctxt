@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=int\ lengthOfName(java.lang.String)
+comment3.params=
+comment3.target=void\ printMethod()
+comment4.params=x\ y
+comment4.target=int\ sumOfIntegers(int,\ int)
+comment5.params=x\ y
+comment5.target=java.lang.String\ longerString(java.lang.String,\ java.lang.String)
+comment6.params=x
+comment6.target=java.lang.String\ capsAlter(java.lang.String)
+numComments=7
