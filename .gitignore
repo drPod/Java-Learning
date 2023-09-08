@@ -6,6 +6,7 @@
 
 # BlueJ IDE files
 # package.bluej
+README.txt
 
 # Eclipse files
 .classpath
@@ -26,4 +27,3 @@ bin/
 # IDE-specific files
 .vscode/
 *.iml
-
