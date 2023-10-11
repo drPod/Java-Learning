@@ -20,5 +20,19 @@ public class Runner {
 
         System.out.println(
                 x.minDifference(new int[] { 4, 8, 6, 1, 5, 9, 4 }));
+        System.out.print("\n");
+
+        System.out.println(
+                x.priceIsRight(new int[] { 900, 885, 990, 1 }, 800));
+        System.out.println(
+                x.priceIsRight(new int[] { 1500, 1600, 2000, 2500 }, 1900));
+        System.out.println(
+                x.priceIsRight(new int[] { 2000, 3000, 4000, 5000 }, 1500));
+        System.out.print("\n");
+
+        int[] result = x.productExceptSelf(new int[] { 1, 2, 3, 4 });
+        for (int i = 0; i < result.length; i++) {
+            System.out.print(result[i] + " ");
+        }
     }
 }
