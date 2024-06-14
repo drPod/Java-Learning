@@ -1,0 +1,12 @@
+- Asymptotic Notation
+	- Tool used to analyze the performance of algorithms on different sizes of the input
+- 3 main asymptotic notations:
+	- Big O - an upper bound (worst case)
+	- Big Omega - a lower bound (best-case)
+	- Big Theta - an upper and a lower bound (average case)
+- Big O is the most widely used notation
+- CRUD: 
+	- C - Create (insert or add, in-queue)
+	- R - Retrieve (search or find)
+	- U - Update (modify)
+	- D - Delete
